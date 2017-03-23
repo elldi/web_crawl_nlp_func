@@ -6,7 +6,7 @@ install scrapy on top of anaconda
  
 set up file 
  
- scrapy startproecjt <filename>
+ scrapy startproject filename
  
 run scrapy code at the top of directory
 
