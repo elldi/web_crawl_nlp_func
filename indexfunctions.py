@@ -1,12 +1,4 @@
-"""
 
-CE306 Assignment 1 - Indexing for Web Search
-
-Authors:
-Adam Kinsmore-Ward - 1401853
-Elliot Dines - 1402811
-
-"""
 from bs4 import BeautifulSoup
 import nltk, re, string
 from nltk.corpus import stopwords
