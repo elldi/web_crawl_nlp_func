@@ -1,4 +1,4 @@
-# README for scrapy recursive indexer #
+# scrapy recursive indexer #
 
 install scrapy on top of anaconda
 
@@ -11,7 +11,6 @@ set up file
 run scrapy code at the top of directory
 
  scrapy crawl essex
- 
 
 JOB DONE MATE.
 
